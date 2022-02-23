@@ -18,3 +18,19 @@ commerce site via display ad. Choose a landing page for for the ad that features
 - **Viewable cost-per-thousand impressions (vCPM):** lets you pay only for impressionsthat become viewable.
     - "viewable" is counted when 50% of ad shows on screen for 1 second or longer for display ads.
     - "viewable" is counted when 50% of ad shows on screen for 2 seconds or longer for video ads.
+
+- Advertiser who wants to target specific categories of video content on the Display Network should use video ads.
+- **Advertising Objectives:**
+        - **Drive Action:** uses remarketing and conversion optimizer bidding to push potential 
+        customers to make a purchase with you.
+        - **Build Awareness:** increase your company's market share by increasing consumer knowledge 
+        of your small business's products and services.
+        - **Drive Loyalty:** to reduce the rates of churn and maximize repeat purchasing power.
+        - **Influence Consideration:** for businesses who have to differentiate from similar products 
+        from their competition. Educate customers why they should choose you. ensure your content 
+        catches the eye of the people who want what is offered.
+        
+- Advertiser is primarily interested in **generating conversions from a display campaign**. To get 
+potentially better return on investment use **target cost-per-acquisition (CPA) bidding**.
+-  
+        
