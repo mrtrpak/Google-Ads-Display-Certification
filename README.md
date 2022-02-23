@@ -32,5 +32,15 @@ commerce site via display ad. Choose a landing page for for the ad that features
         
 - Advertiser is primarily interested in **generating conversions from a display campaign**. To get 
 potentially better return on investment use **target cost-per-acquisition (CPA) bidding**.
--  
-        
+  
+- You can place a client's image and video ads on the **Display Network Only**. Text, image, video or rich media formats can appear on the Display Network.
+- Best targeting strategy when using both **remarketing and shopping ads** is to create seperate remarketing and shopping campaigns.
+- **Frequency Capping** gives advertisers the ability to specify a limit to the number of impressions 
+for a unique viewer. Average # of times a unique user sees ad in 1st position over a time period.
+- Remarketing campaign for client who sells educational products use the **"Education" business type.**
+- There are different types of feeds for different businesses. Choose one that represents your products or services the best.
+- **Remarketing Categories:**
+        - **Past Converters:** previously made a purchase on your site.
+        - **Product Page Visitors:** went as far as to the product to buy but didn't complete.
+        - **Homepage Visitors:** visited homepage but didn't move any further into site.
+        - **Category Page Visitors:** the bridge between homepage and product page.
