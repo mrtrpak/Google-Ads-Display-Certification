@@ -4,6 +4,9 @@
 - **Extensions on Display ads** adds info like a location or phone number.
 - **Google's editorial and technical** requirements allows promoting documented copyrighted content if legally authorized too.
 
+- **3 Main automation components of Smart Display campaigns** automated targeting, bidding & creatives.
+- **Components of Google Display ads value proposition:** Intent, Performance, Machine Learning
+
 - Direct response advertiser would like to promote a new line of non-stick cookware sold on an e-
 commerce site via display ad. Choose a landing page for for the ad that features the entire new line of non-stick cookware.
 - **Google Display Network** is displayed on partner websites and mobile sites that are part of it. 
