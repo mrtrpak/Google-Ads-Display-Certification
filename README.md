@@ -6,8 +6,22 @@
 
 - **3 Main automation components of Smart Display campaigns** automated targeting, bidding & creatives.
 - **Components of Google Display ads value proposition:** Intent, Performance, Machine Learning
-- **2 types of remarketing** used on Google Display ads are **Custom and Dynamic** remarketing.
+- **2 types of remarketing** used on Google Display ads are **Standard and Dynamic** remarketing.
+- **2 main ad formats** used in Display ads are **Uploaded ads and Responsive Display Ads**
+- **Bidding strategy with campaign goals:**
+        - Maximize Clicks: Traffic
+        - Target CPA: Conversions
+        - Target Impression share: Visibility
+        - Target ROAS: Revenue
 
+- **Advantages of using Responsive Display Ads:**
+        - Automation: Google uses machine learning
+        - Reach: automatically adjusts size and apprearance
+        - Simplicity: reduce overhead of micromanaging ads
+
+- **Auction-time bidding** is a core benefit of Google Ads automated bidding.
+- **Affinity** targeting option is best for achieving brand awareness.
+- **Custom Intent** is the best targeting option for influencing consideration.
 - Direct response advertiser would like to promote a new line of non-stick cookware sold on an e-
 commerce site via display ad. Choose a landing page for for the ad that features the entire new line of non-stick cookware.
 - **Google Display Network** is displayed on partner websites and mobile sites that are part of it. 
