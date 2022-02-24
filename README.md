@@ -6,6 +6,7 @@
 
 - **3 Main automation components of Smart Display campaigns** automated targeting, bidding & creatives.
 - **Components of Google Display ads value proposition:** Intent, Performance, Machine Learning
+- **2 types of remarketing** used on Google Display ads are **Custom and Dynamic** remarketing.
 
 - Direct response advertiser would like to promote a new line of non-stick cookware sold on an e-
 commerce site via display ad. Choose a landing page for for the ad that features the entire new line of non-stick cookware.
